@@ -1,0 +1,9 @@
+{
+  "id": "gmx",
+  "name": "GMX",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gmx.com"
+  }
+}
